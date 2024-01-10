@@ -1,0 +1,172 @@
+
+
+Flickr Dataset:
+
+Total nodes: 395978
+Edges: 8545307
+
+
+The number of edges satisfying the threshold: 6878619
+t : 0.2||Number of Uncertain Butterflies: 383511881||Runtime: 27011 ms
+Edges: 8545307
+The number of edges satisfying the threshold: 6023904
+t : 0.3||Number of Uncertain Butterflies: 186338968||Runtime: 20809 ms
+Edges: 8545307
+The number of edges satisfying the threshold: 5171653
+t : 0.4||Number of Uncertain Butterflies: 89447110||Runtime: 16756 ms
+Edges: 8545307
+The number of edges satisfying the threshold: 4318535
+t : 0.5||Number of Uncertain Butterflies: 40503446||Runtime: 13123 ms
+Edges: 8545307
+The number of edges satisfying the threshold: 3464424
+t : 0.6||Number of Uncertain Butterflies: 16338175||Runtime: 12029 ms
+Edges: 8545307
+The number of edges satisfying the threshold: 2610231
+t : 0.7||Number of Uncertain Butterflies: 5394436||Runtime: 9373 ms
+Edges: 8545307
+The number of edges satisfying the threshold: 1753399
+t : 0.8||Number of Uncertain Butterflies: 1214025||Runtime: 6196 ms
+
+
+
+
+
+
+
+
+IMDB dataset:
+
+Total Nodes: 1199919
+Edges: 3782463
+
+t : 0.2||Number of Uncertain Butterflies: 1106829||Runtime: 10637 ms
+The number of edges satisfying the threshold: 3497950
+Number of Uncertain Butterflies: 1106829
+
+t : 0.3||Number of Uncertain Butterflies: 450663||Runtime: 9618 ms
+The number of edges satisfying the threshold: 3209475
+Number of Uncertain Butterflies: 450663
+
+
+t : 0.4||Number of Uncertain Butterflies: 170120||Runtime: 8181 ms
+The number of edges satisfying the threshold: 2808827
+Number of Uncertain Butterflies: 170120
+
+
+t : 0.5||Number of Uncertain Butterflies: 57397||Runtime: 6573 ms
+The number of edges satisfying the threshold: 2308787
+Number of Uncertain Butterflies: 57397
+
+t : 0.6||Number of Uncertain Butterflies: 16396||Runtime: 5123 ms
+The number of edges satisfying the threshold: 1752095
+Number of Uncertain Butterflies: 16396
+
+t : 0.7||Number of Uncertain Butterflies: 3599||Runtime: 3834 ms
+The number of edges satisfying the threshold: 1193441
+Number of Uncertain Butterflies: 3599
+
+
+t : 0.8||Number of Uncertain Butterflies: 522||Runtime: 2966 ms
+The number of edges satisfying the threshold: 692348
+Number of Uncertain Butterflies: 522
+
+
+Youtube Dataset:
+
+
+Total Nodes: 94238
+Edges: 293360
+
+t : 0.2||Number of Uncertain Butterflies: 413314||Runtime: 752 ms
+The number of edges satisfying the threshold: 236215
+
+The number of edges satisfying the threshold: 206800
+t : 0.3||Number of Uncertain Butterflies: 193763||Runtime: 666 ms
+
+The number of edges satisfying the threshold: 147954
+t : 0.5||Number of Uncertain Butterflies: 39154||Runtime: 513 ms
+
+
+The number of edges satisfying the threshold: 118814
+t : 0.6||Number of Uncertain Butterflies: 14868||Runtime: 315 ms
+
+
+The number of edges satisfying the threshold: 89549
+t : 0.7||Number of Uncertain Butterflies: 4506||Runtime: 259 ms
+Total Nodes: 94238
+Edges: 293360
+The number of edges satisfying the threshold: 60249
+t : 0.8||Number of Uncertain Butterflies: 869||Runtime: 206 ms
+
+
+
+
+DBPedia Dataset:
+
+
+
+
+
+Total Nodes: 901165
+Edges: 1366466
+The number of edges satisfying the threshold: 1099592
+t : 0.2||Number of Uncertain Butterflies: 441122||Runtime: 2412 ms
+
+
+The number of edges satisfying the threshold: 962575
+t : 0.3||Number of Uncertain Butterflies: 206139||Runtime: 1735 ms
+
+
+The number of edges satisfying the threshold: 825756
+t : 0.4||Number of Uncertain Butterflies: 94488||Runtime: 1491 ms
+
+
+The number of edges satisfying the threshold: 689119
+t : 0.5||Number of Uncertain Butterflies: 40351||Runtime: 1547 ms
+
+
+The number of edges satisfying the threshold: 552787
+t : 0.6||Number of Uncertain Butterflies: 14979||Runtime: 1551 ms
+
+
+The number of edges satisfying the threshold: 416535
+t : 0.7||Number of Uncertain Butterflies: 4333||Runtime: 1335 ms
+
+
+The number of edges satisfying the threshold: 279626
+t : 0.8||Number of Uncertain Butterflies: 789||Runtime: 916 ms
+
+
+
+
+
+CIAODVD Dataset:
+
+Total Nodes: 4657
+Edges: 40133
+The number of edges satisfying the threshold: 40133
+t : 0.2||Number of Uncertain Butterflies: 759575||Runtime: 278 ms
+
+
+The number of edges satisfying the threshold: 35511
+t : 0.3||Number of Uncertain Butterflies: 389369||Runtime: 134 ms
+
+
+The number of edges satisfying the threshold: 30502
+t : 0.4||Number of Uncertain Butterflies: 199599||Runtime: 67 ms
+
+
+The number of edges satisfying the threshold: 25415
+t : 0.5||Number of Uncertain Butterflies: 98250||Runtime: 42 ms
+
+
+The number of edges satisfying the threshold: 20488
+t : 0.6||Number of Uncertain Butterflies: 44046||Runtime: 36 ms
+
+
+The number of edges satisfying the threshold: 15463
+t : 0.7||Number of Uncertain Butterflies: 15696||Runtime: 29 ms
+
+
+The number of edges satisfying the threshold: 10425
+t : 0.8||Number of Uncertain Butterflies: 3905||Runtime: 24 ms

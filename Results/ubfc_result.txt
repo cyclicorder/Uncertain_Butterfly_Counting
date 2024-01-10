@@ -1,0 +1,28 @@
+IMDB Dataset:
+
+Total Nodes: 1199919
+Edges: 3782463
+
+t : 0.4||Number of Uncertain Butterflies: 348028||Runtime: 1816567 ms
+t : 0.6||Number of Uncertain Butterflies: 20051||Runtime: 309554 ms
+t : 0.7||Number of Uncertain Butterflies: 5295||Runtime: 311195 ms
+t : 0.7||Number of Uncertain Butterflies: 5295||Runtime: 311195 ms
+
+
+
+CIAODVD Dataset:
+t : 0.2||Number of Uncertain Butterflies: 7496744||Runtime: 246678 ms
+t : 0.3||Number of Uncertain Butterflies: 3277510||Runtime: 247307 ms
+t : 0.4||Number of Uncertain Butterflies: 1434067||Runtime: 246971 ms
+t : 0.5||Number of Uncertain Butterflies: 604317||Runtime: 246999 ms
+
+
+Youtube Dataset:
+
+t : 0.4||Number of Uncertain Butterflies: 193783||Runtime: 291207 ms
+
+DBPedia Dataset:
+
+t : 0.4||Number of Uncertain Butterflies: 153551||Runtime: 316154 ms
+
+

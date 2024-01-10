@@ -1,0 +1,37 @@
+IMDB Dataset:
+t : 0.2||Number of Uncertain Butterflies: 3065793.045||Runtime: 3328 ms
+t : 0.3||Number of Uncertain Butterflies: 1088926.4925||Runtime: 2964 ms
+t : 0.4||Number of Uncertain Butterflies: 2555827.4700000007||Runtime: 2993 ms
+t : 0.5||Number of Uncertain Butterflies: 908938.6425||Runtime: 2990 ms
+t : 0.6||Number of Uncertain Butterflies: 314978.73750000005||Runtime: 2908 ms
+t : 0.7||Number of Uncertain Butterflies: 89993.925||Runtime: 2938 ms
+t : 0.8||Number of Uncertain Butterflies: 158989.2675||Runtime: 2714 ms
+
+Youtube Dataset:
+
+t : 0.2||Number of Uncertain Butterflies: 395799.60000000015||Runtime: 386 ms
+t : 0.3||Number of Uncertain Butterflies: 133346.77000000002||Runtime: 242 ms
+t : 0.4||Number of Uncertain Butterflies: 317582.05999999994||Runtime: 216 ms
+t : 0.5||Number of Uncertain Butterflies: 63139.46000000001||Runtime: 160 ms
+t : 0.6||Number of Uncertain Butterflies: 20732.36||Runtime: 152 ms
+t : 0.7||Number of Uncertain Butterflies: 97771.925||Runtime: 206 ms
+t : 0.8||Number of Uncertain Butterflies: 31569.730000000018||Runtime: 195 ms
+
+DBPEDIA Dataset:
+t : 0.2||Number of Uncertain Butterflies: 5729156.4875||Runtime: 1108 ms
+t : 0.3||Number of Uncertain Butterflies: 6195509.375||Runtime: 974 ms
+t : 0.4||Number of Uncertain Butterflies: 4379661.9||Runtime: 774 ms
+t : 0.5||Number of Uncertain Butterflies: 6839842.35||Runtime: 993 ms
+t : 0.6||Number of Uncertain Butterflies: 223038.3375||Runtime: 789 ms
+t : 0.7||Number of Uncertain Butterflies: 547457.7375000006||Runtime: 853 ms
+t : 0.8||Number of Uncertain Butterflies: 15770.387499999997||Runtime: 827 ms
+
+
+CIAODVD Dataset:
+t : 0.2||Number of Uncertain Butterflies: 2261683.6925||Runtime: 151 ms
+t : 0.3||Number of Uncertain Butterflies: 2392009.8375000004||Runtime: 75 ms
+t : 0.4||Number of Uncertain Butterflies: 977527.5849999998||Runtime: 45 ms
+t : 0.5||Number of Uncertain Butterflies: 476643.9500000001||Runtime: 33 ms
+t : 0.6||Number of Uncertain Butterflies: 178386.38499999995||Runtime: 27 ms
+t : 0.7||Number of Uncertain Butterflies: 41703.435||Runtime: 25 ms
+t : 0.8||Number of Uncertain Butterflies: 15158.534999999998||Runtime: 42 ms

@@ -1,0 +1,24 @@
+YOUTUBE:
+While alpha=.001
+t : 0.2||Number of Uncertain Butterflies: 7051.829539999997||Runtime: 357 ms
+t : 0.3||Number of Uncertain Butterflies: 41044.41852000001||Runtime: 231 ms
+t : 0.4||Number of Uncertain Butterflies: 8266.792954999999||Runtime: 206 ms
+t : 0.5||Number of Uncertain Butterflies: 4841.948439999998||Runtime: 162 ms
+t : 0.6||Number of Uncertain Butterflies: 4277.934009999999||Runtime: 162 ms
+t : 0.7||Number of Uncertain Butterflies: 9205.167839999998||Runtime: 276 ms
+t : 0.8||Number of Uncertain Butterflies: 7577.206389999999||Runtime: 222 ms
+
+
+alpha =.0001
+
+t : 0.2||Number of Uncertain Butterflies: 864.6572095000007||Runtime: 404 ms
+t : 0.3||Number of Uncertain Butterflies: 2073.4480355||Runtime: 233 ms
+t : 0.4||Number of Uncertain Butterflies: 687.7489240000001||Runtime: 205 ms
+t : 0.5||Number of Uncertain Butterflies: 857.660038||Runtime: 165 ms
+t : 0.6||Number of Uncertain Butterflies: 665.178923||Runtime: 163 ms
+t : 0.7||Number of Uncertain Butterflies: 1618.019341||Runtime: 208 ms
+t : 0.8||Number of Uncertain Butterflies: 716.6093115000001||Runtime: 218 ms
+
+
+
+
